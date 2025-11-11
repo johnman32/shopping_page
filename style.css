@@ -1,0 +1,69 @@
+.title{
+    background-color: blueviolet;
+    background: #1C6EA4;
+background: -moz-linear-gradient(top, #1C6EA4 0%, #2388CB 51%, #144E75 100%);
+background: -webkit-linear-gradient(top, #1C6EA4 0%, #2388CB 51%, #144E75 100%);
+background: linear-gradient(to bottom, #1C6EA4 0%, #2388CB 51%, #144E75 100%);
+font-family: "Arial Black", Gadget, sans-serif;
+font-size: 120px;
+letter-spacing: -1px;
+word-spacing: 2px;
+color: #f0c9c9;
+font-weight: normal;
+text-decoration: none;
+font-style: italic;
+font-variant: small-caps;
+text-transform: none;
+text-align: center;
+}
+
+.basket{color: rgb(255, 255, 255);
+background-color: rgb(247, 193, 193);
+text-shadow: rgb(122, 122, 122) 4px 3px 0px;
+background: #1C6EA4;
+background: #7E75A4;
+background: -moz-linear-gradient(top, #7E75A4 0%, #807ECB 56%, #5E7565 100%);
+background: -webkit-linear-gradient(top, #7E75A4 0%, #807ECB 56%, #5E7565 100%);
+background: linear-gradient(to bottom, #7E75A4 0%, #807ECB 56%, #5E7565 100%);
+font-family: "Arial Black", Gadget, sans-serif;
+font-size: 120px;
+letter-spacing: -1px;
+word-spacing: 2px;
+color: #f0c9c9;
+}
+
+.product{
+font-family: "Arial Black", Gadget, sans-serif;
+font-size: 50px;
+letter-spacing: -1px;
+word-spacing: 2px;
+color: #000000;
+font-weight: 700;
+text-decoration: none;
+font-style: normal;
+font-variant: normal;
+text-transform: uppercase;
+}
+
+.description{
+font-family: "Arial Black", Gadget, sans-serif;
+}
+
+.price{
+font-family: "Arial Black", Gadget, sans-serif;
+color:#f0c9c9;
+font-size: 30px;
+}
+
+.img-fluid:hover{
+    border: 2px solid #333;
+    transform: scale(1.1);
+}
+
+.form-label {
+  overflow: visible;
+  font-size: 1rem;
+  margin: 0;
+  padding: 0;
+  color: #000;
+}
